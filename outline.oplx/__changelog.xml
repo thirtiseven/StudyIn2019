@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
+  <version>2.1</version>
+  <task-change-set user="li haoyang" date="2019-03-03T14:24:31.691Z" timestamp="2019-03-03T14:24:31.691Z">
+    <change idref="t3" to="t-1" to-position="1">
+      <change idref="t3" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t3" attribute="title" type="string" to="杨鹏长难句"/>
+    </change>
+    <change idref="t9" to="t-1" to-position="2">
+      <change idref="t9" attribute="effort" type="real" from="28800" to="748800"/>
+      <change idref="t9" attribute="noEarlierThanConstraintDate" type="date" to="2019-03-01T08:45:00.000Z"/>
+      <change idref="t9" attribute="title" type="string" to="数学全书"/>
+    </change>
+    <change idref="t10" to="t-1" to-position="3">
+      <change idref="t10" attribute="effort" type="real" from="28800" to="2592000"/>
+      <change idref="t10" attribute="title" type="string" to="1800"/>
+    </change>
+    <change idref="t12" to="t-1" to-position="4">
+      <change idref="t12" attribute="effort" type="real" from="28800" to="1728000"/>
+      <change idref="t12" attribute="noEarlierThanConstraintDate" type="date" to="2019-04-30T05:00:00.000Z"/>
+      <change idref="t12" attribute="title" type="string" to="百词斩考研单词"/>
+    </change>
+    <change idref="t13" to="t-1" to-position="5">
+      <change idref="t13" attribute="effort" type="real" from="28800" to="864000"/>
+      <change idref="t13" attribute="title" type="string" to="王道数据结构"/>
+    </change>
+    <change idref="t15" to="t-1" to-position="6">
+      <change idref="t15" attribute="effort" type="real" from="28800" to="1152000"/>
+      <change idref="t15" attribute="noEarlierThanConstraintDate" type="date" to="2019-04-30T05:00:00.000Z"/>
+      <change idref="t15" attribute="title" type="string" to="英语二真题"/>
+    </change>
+    <change idref="t1" attribute="title" type="string" from="Task 1" to="百词斩考研核心词"/>
+    <change idref="t1" attribute="effort" type="real" from="28800" to="576000"/>
+  </task-change-set>
+  <task-change-set user="li haoyang" date="2019-03-03T14:42:06.413Z" timestamp="2019-03-03T14:42:06.413Z">
+    <change idref="t1" from="t-1" from-position="0" to="t-1" to-position="3" resolved="yes"/>
+    <change idref="t1" attribute="noEarlierThanConstraintDate" type="date" to="2019-03-02T16:00:00.000Z" resolved="yes"/>
+    <change idref="t3" attribute="noEarlierThanConstraintDate" type="date" to="2019-03-02T15:45:00.000Z" resolved="yes"/>
+    <change idref="t10" attribute="noEarlierThanConstraintDate" type="date" to="2019-03-02T16:00:00.000Z" resolved="yes"/>
+    <change idref="t12" attribute="noEarlierThanConstraintDate" type="date" from="2019-04-30T05:00:00.000Z" to="2019-03-09T16:00:00.000Z" resolved="yes"/>
+    <change idref="t12" attribute="internalPrerequisitesString" type="string" to="1FS" resolved="yes"/>
+    <change idref="t15" attribute="noEarlierThanConstraintDate" type="date" from="2019-04-30T05:00:00.000Z" to="2019-03-09T16:00:00.000Z" resolved="yes"/>
+    <change idref="t15" attribute="internalPrerequisitesString" type="string" to="1FS" resolved="yes"/>
+  </task-change-set>
+  <resource-change-set user="li haoyang" date="2019-03-03T14:24:31.691Z" timestamp="2019-03-03T14:24:31.691Z">
+    <change idref="r-1" attribute="standardHoursString" type="string" from="-;-;-;-;-;-;-" to=";;;;;;"/>
+  </resource-change-set>
+  <resource-change-set user="li haoyang" date="2019-03-03T14:42:06.412Z" timestamp="2019-03-03T14:42:06.412Z">
+    <change idref="r2" to="r-1" to-position="1" resolved="yes">
+      <change idref="r2" attribute="name" type="string" from="" to="Holiday"/>
+      <change idref="r2" attribute="standardHoursString" type="string" from="-;-;-;-;-;-;-" to="34200,45000,50400,64800,72000,79200;34200,45000,50400,64800,72000,79200;34200,45000,50400,64800,72000,79200;34200,45000,50400,64800,72000,79200;34200,45000,50400,64800,72000,79200;34200,45000,50400,64800,72000,79200;34200,45000,50400,64800,72000,79200"/>
+    </change>
+    <change idref="r1" attribute="standardHoursString" type="string" from="-;-;-;-;-;-;-" to="34200,45000,50400,64800,72000,79200;37800,43200,46800,63000,66600,79200;32400,43200,57600,63000,66600,79200;32400,43200,46800,63000,66600,79200;57600,63000,66600,79200;50400,64800,72000,79200;34200,45000,50400,64800,72000,79200" resolved="yes"/>
+    <change idref="r1" attribute="name" type="string" from="Resource 1" to="School Day" resolved="yes"/>
+  </resource-change-set>
+  <metadata-change-set user="li haoyang" date="2019-03-03T14:10:34.637Z" timestamp="2019-03-03T14:10:34.637Z">
+    <change idref="m1" attribute="fixedDate" type="date" from="2007-01-01T20:00:00.000Z" to="2019-03-02T16:00:00.000Z" resolved="yes"/>
+  </metadata-change-set>
+</changelog>

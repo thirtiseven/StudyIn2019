@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2" xmlns:opns="http://www.omnigroup.com/namespace/OmniPlan/v2" id="gulCrHtwNGX">
+  <start-date>2019-03-02T16:00:00.000Z</start-date>
+  <prototype-task>
+    <task id="t-2">
+      <title>Task 1</title>
+      <effort>28800</effort>
+    </task>
+  </prototype-task>
+  <prototype-task>
+    <task id="t-3">
+      <title>Milestone 1</title>
+      <type>milestone</type>
+    </task>
+  </prototype-task>
+  <prototype-task>
+    <task id="t-4">
+      <title>Group 1</title>
+      <type>group</type>
+    </task>
+  </prototype-task>
+  <prototype-resource>
+    <resource id="r-2">
+      <name>Resource 1</name>
+      <type>Staff</type>
+    </resource>
+  </prototype-resource>
+  <prototype-resource>
+    <resource id="r-3">
+      <name>Equipment 1</name>
+      <type>Equipment</type>
+    </resource>
+  </prototype-resource>
+  <prototype-resource>
+    <resource id="r-4">
+      <name>Material 1</name>
+      <type>Material</type>
+      <units-available>0</units-available>
+      <efficiency>0</efficiency>
+    </resource>
+  </prototype-resource>
+  <prototype-resource>
+    <resource id="r-5">
+      <name>Group 1</name>
+      <type>Group</type>
+    </resource>
+  </prototype-resource>
+  <top-resource idref="r-1"/>
+  <resource id="r-1">
+    <name/>
+    <type>Group</type>
+    <schedule>
+      <schedule-day day-of-week="sunday"/>
+      <schedule-day day-of-week="monday"/>
+      <schedule-day day-of-week="tuesday"/>
+      <schedule-day day-of-week="wednesday"/>
+      <schedule-day day-of-week="thursday"/>
+      <schedule-day day-of-week="friday"/>
+      <schedule-day day-of-week="saturday"/>
+      <calendar name="Time Off" editable="yes" overtime="no"/>
+      <calendar name="Overtime" editable="yes" overtime="yes"/>
+    </schedule>
+    <child-resource idref="r1"/>
+    <child-resource idref="r2"/>
+  </resource>
+  <resource id="r1">
+    <name>School Day</name>
+    <type>Staff</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="37800" end-time="43200"/>
+        <time-span start-time="46800" end-time="63000"/>
+        <time-span start-time="66600" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="32400" end-time="43200"/>
+        <time-span start-time="57600" end-time="63000"/>
+        <time-span start-time="66600" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="32400" end-time="43200"/>
+        <time-span start-time="46800" end-time="63000"/>
+        <time-span start-time="66600" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="57600" end-time="63000"/>
+        <time-span start-time="66600" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <calendar name="Time Off" editable="yes" overtime="no"/>
+      <calendar name="Overtime" editable="yes" overtime="yes"/>
+    </schedule>
+  </resource>
+  <resource id="r2">
+    <name>Holiday</name>
+    <type>Staff</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="34200" end-time="45000"/>
+        <time-span start-time="50400" end-time="64800"/>
+        <time-span start-time="72000" end-time="79200"/>
+      </schedule-day>
+      <calendar name="Time Off" editable="yes" overtime="no"/>
+      <calendar name="Overtime" editable="yes" overtime="yes"/>
+    </schedule>
+  </resource>
+  <top-task idref="t-1"/>
+  <task id="t-1">
+    <type>group</type>
+    <child-task idref="t3"/>
+    <child-task idref="t9"/>
+    <child-task idref="t10"/>
+    <child-task idref="t1"/>
+    <child-task idref="t12"/>
+    <child-task idref="t13"/>
+    <child-task idref="t15"/>
+  </task>
+  <task id="t1">
+    <title>百词斩考研核心词</title>
+    <effort>576000</effort>
+    <start-constraint-date>2019-03-02T16:00:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2019-03-02T16:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t3">
+    <title>杨鹏长难句</title>
+    <effort>576000</effort>
+    <start-constraint-date>2019-03-02T15:45:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2019-03-02T15:45:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t9">
+    <title>数学全书</title>
+    <effort>748800</effort>
+    <start-constraint-date>2019-03-01T08:45:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2019-03-01T08:45:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t10">
+    <title>1800</title>
+    <effort>2592000</effort>
+    <start-constraint-date>2019-03-02T16:00:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2019-03-02T16:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t12">
+    <title>百词斩考研单词</title>
+    <effort>1728000</effort>
+    <start-constraint-date>2019-03-09T16:00:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t1"/>
+    <start-no-earlier-than>2019-03-09T16:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t13">
+    <title>王道数据结构</title>
+    <effort>864000</effort>
+  </task>
+  <task id="t15">
+    <title>英语二真题</title>
+    <effort>1152000</effort>
+    <start-constraint-date>2019-03-09T16:00:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t1"/>
+    <start-no-earlier-than>2019-03-09T16:00:00.000Z</start-no-earlier-than>
+  </task>
+  <critical-path root="-1" enabled="false" resources="false">
+    <color space="srgb" r="1" g="0.5" b="0.5"/>
+  </critical-path>
+</scenario>
