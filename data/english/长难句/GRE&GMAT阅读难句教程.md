@@ -110,5 +110,52 @@ correlation 相关,相关性,相互关系
 
 
 
+11.
+
+demonstrate 证明,演示,论证
+
+refine 精练,提炼,精制
+
+neuron 神经元,神经元,神经细胞
+
+impulse 冲动,脉冲,冲量
+
+developmental 发展性,发展的,发育的
+
+neural 神经的,神经中枢的,神经系统的
 
 
+
+12.
+
+qualitative 质化,质量的,定性的
+
+rigidly 硬套,坚硬地,严格地
+
+essentially 本质上,本来,基本上
+
+homogeneous 同类的,同质的,均质
+
+
+
+13.
+
+correlation 相关,相关性,相互关系
+
+
+
+14.
+
+holistic 整体的,全人,整体性
+
+serial 串行的,连载小说,系列片
+
+hypothesis 假设,假说,假说
+
+notably 显着地,显而易见地,特别地
+
+
+
+15.
+
+historian 历史学家
