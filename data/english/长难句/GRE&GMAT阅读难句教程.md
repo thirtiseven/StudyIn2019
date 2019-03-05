@@ -159,3 +159,41 @@ notably 显着地,显而易见地,特别地
 15.
 
 historian 历史学家
+
+
+
+16.
+
+
+
+17.
+
+hydrogen 氢
+
+
+
+18.
+
+dread 恐惧，可怕的事物，惧怕
+
+whereas 然而，鉴于
+
+perturbation 不安，搅乱
+
+
+
+19.
+
+cohesion 团结
+
+
+
+20.
+
+constitute 形成，成为，构成，成立
+
+immense 巨大的，十分的，艰巨的
+
+gulf 海湾，鸿沟
+
+ 
