@@ -197,3 +197,38 @@ immense 巨大的，十分的，艰巨的
 gulf 海湾，鸿沟
 
  
+
+21.
+
+ideological 意识形态的,思想的,思想性
+
+
+
+22.
+
+aesthetic 审美,美学的,美的
+
+
+
+23.
+
+counterpoint 对位,对位法,多声部音乐
+
+naturalistic 自然的,博物学的,自然主义的
+
+
+
+24.
+
+fascinating 迷人的,吸引人的,极好的
+
+
+
+25.
+
+molecule 分子,分子,克分子
+
+infrared 红外线,红外,红外线发射管
+
+radiation 辐射,放射物,辐射
+
