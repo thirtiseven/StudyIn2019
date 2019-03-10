@@ -232,3 +232,39 @@ infrared 红外线,红外,红外线发射管
 
 radiation 辐射,放射物,辐射
 
+
+
+26.
+
+anthropologist 人类学家
+
+constraint 限制，强迫
+
+archetypal 原型的
+
+
+
+27.
+
+morphology 形态学，词法学
+
+
+
+28.
+
+graze 放牧
+
+
+
+29.
+
+de-emphasis 降低重要性
+
+
+
+30.
+
+
+
+
+
