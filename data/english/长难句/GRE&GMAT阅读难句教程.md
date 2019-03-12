@@ -162,10 +162,6 @@ historian 历史学家
 
 
 
-16.
-
-
-
 17.
 
 hydrogen 氢
@@ -262,9 +258,37 @@ de-emphasis 降低重要性
 
 
 
-30.
+31.
+
+zooplankton 浮游动物,浮游生物,漂浮动物
+
+phytoplankton 浮游植物,浮游植物,浮游藻类
 
 
 
+32.
 
+hydrologic 水文的,水文,国际
+
+precipitation 降水,沉淀,沉淀
+
+evaporation 蒸发,蒸发作用,蒸发量
+
+transpiration 蒸腾作用,蒸腾,蒸发
+
+
+
+34.
+
+precipitate 加速,沉淀物,促进
+
+
+
+35.
+
+preindustrial 工业化前的,未工业化的,工业化之前的
+
+bishop 主教,主教,毕晓普 (加利福尼亚州)
+
+magnate 工业巨头,富豪,巨头
 
