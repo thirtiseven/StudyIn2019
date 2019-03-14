@@ -308,3 +308,34 @@ sufficiently 充分地,十分地,只放在被修饰词前
 
 
 
+41.
+
+notwithstanding 虽然,尽管,固然
+
+
+
+42.
+
+discernible 可辨别的,可辨,可识别的
+
+dispersion 分散,光的色散,分散系
+
+
+
+43.
+
+territoriy 版图
+
+
+
+44.
+
+leguminous 豆科植物的
+
+
+
+45.
+
+nitrogen 氮
+
+ 
