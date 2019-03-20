@@ -339,3 +339,53 @@ leguminous 豆科植物的
 nitrogen 氮
 
  
+
+46.
+
+legume 荚果,豆荚,荚果
+
+yield 屈服,收率,收益
+
+
+
+47.
+
+spectacle 景象,看头,奇观
+
+render 使得,给予,渲染
+
+without prep. 没有；超过；在…外面
+
+
+
+48.
+
+striking 引人注目,醒目,打人犯规
+
+asymmetries 不对称,非对称,不对称
+
+flatfish 比目鱼,油浸石斑,红烧石斑
+
+maturity 到期,成熟,成熟度
+
+
+
+49.
+
+critique 批判,批评,评论
+
+reexamined 被再检查的
+
+slavery 奴隶制度,奴隶制,苦役
+
+
+
+50.
+
+layered 分层,层状的,成层的
+
+mantle 地幔,地幔,斗蓬
+
+midocean 海洋中央,洋中,地中海
+
+geologist 地质学家,地质学者,地质师
