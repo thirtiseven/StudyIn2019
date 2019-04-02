@@ -389,3 +389,39 @@ mantle 地幔,地幔,斗蓬
 midocean 海洋中央,洋中,地中海
 
 geologist 地质学家,地质学者,地质师
+
+
+
+51.
+
+observation 观察
+
+fluid 流体
+
+irregular 不规则的
+
+
+
+52.
+
+demonstration 示范
+
+steadily 稳步
+
+
+
+53.
+
+profound 深刻的
+
+coherently 前后一致地
+
+
+
+54.
+
+correspondence  书信
+
+
+
+55.
