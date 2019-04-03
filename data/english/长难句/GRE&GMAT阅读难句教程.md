@@ -425,3 +425,39 @@ correspondence  书信
 
 
 55.
+
+
+
+56.
+
+peptide 肽
+
+hormone 雌激素,雌性激素,女性激素
+
+
+
+57.
+
+immunological 免疫疾病,免疫性疾病,免疫生病
+
+antiserums 抗血清
+
+
+
+58.
+
+fanciful 稀奇的
+
+
+
+59.
+
+deposit n. 存款；押金；订金；保证金；沉淀物
+
+
+
+60.
+
+simultaneously 同时
+
+gorging 狼吞虎咽
