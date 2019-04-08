@@ -461,3 +461,41 @@ deposit n. 存款；押金；订金；保证金；沉淀物
 simultaneously 同时
 
 gorging 狼吞虎咽
+
+
+
+61.
+
+
+
+62.
+
+presence 存在
+
+heterogeneous 异构
+
+
+
+63.
+
+stiffen 变硬
+
+thesis 论文
+
+
+
+64.
+
+isotopic 同位素的,合痕的,同位素置换
+
+copper 铜
+
+ore 矿石
+
+
+
+65.
+
+externally 外表上,外部地,在外部
+
+excretion 排泄
