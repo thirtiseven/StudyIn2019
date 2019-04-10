@@ -499,3 +499,30 @@ ore 矿石
 externally 外表上,外部地,在外部
 
 excretion 排泄
+
+
+
+66.
+
+imperial 帝国
+
+
+
+67.
+
+resemblance 相似,相像,类同之处
+
+
+
+68.
+
+assimilation 全面同化,完全同化
+
+
+
+69.
+
+
+
+70.
+
