@@ -526,3 +526,44 @@ assimilation 全面同化,完全同化
 
 70.
 
+
+
+71.
+
+rip 裂开，被撕裂
+
+collision 碰撞
+
+celestial 天体
+
+
+
+72.
+
+orientation 取向
+
+communal 公共的,公社的,公有的
+
+
+
+73.
+
+cultivate 培养
+
+
+
+74.
+
+guise 伪装
+
+attest 证明
+
+
+
+75.
+
+zooplankton 浮游动物
+
+tadpolelike 蝌蚪形
+
+concentrate 集中注意力
