@@ -567,3 +567,39 @@ zooplankton 浮游动物
 tadpolelike 蝌蚪形
 
 concentrate 集中注意力
+
+
+
+76.
+
+specifically 特别地,明确的,特定地
+
+
+
+77.
+
+
+
+78.
+
+ethos 气质,精神气质,民族精神
+
+sanction 制裁
+
+
+
+79.
+
+capable 有能力 
+
+
+
+80.
+
+unresponsiveness 无感应性,无回应力
+
+
+
+# Note
+
+- that 有做连接词的用法，相当于 so that 或者 in order that
