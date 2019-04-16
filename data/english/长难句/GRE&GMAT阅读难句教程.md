@@ -1,4 +1,10 @@
-#vocabulary
+# Note
+
+- that 有做连接词的用法，相当于 so that 或者 in order that
+
+  
+
+#Vocabulary
 
 1.
 
@@ -600,6 +606,46 @@ unresponsiveness 无感应性,无回应力
 
 
 
-# Note
+81.
 
-- that 有做连接词的用法，相当于 so that 或者 in order that
+seismic 地震的,抗震,地震波
+
+
+
+82.
+
+doctrine 学说 
+
+specter 幽灵
+
+tetralogy 四部曲
+
+utter 彻底的
+
+
+
+83.
+
+devise 设计
+
+perpetuate 使永久,使永存,使不朽
+
+legacy 遗产
+
+essential 至关重要的
+
+
+
+84.
+
+pollination 授粉
+
+pollen 花粉
+
+
+
+85.
+
+hazard 危害
+
+orders of magnitude 数量级
