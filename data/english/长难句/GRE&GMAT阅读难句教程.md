@@ -649,3 +649,43 @@ pollen 花粉
 hazard 危害
 
 orders of magnitude 数量级
+
+
+
+86.
+
+spiral 螺旋
+
+organs 器官
+
+conifers 松柏
+
+airborne 机载.
+
+
+
+87.
+
+recruitment 招聘
+
+
+
+88.
+
+separation 分离
+
+secretarial 秘书
+
+thenceforth 其后,厥后,从那时
+
+
+
+89.
+
+mechanization 机械化
+
+
+
+90.
+
+derive 源于；得自；获得
