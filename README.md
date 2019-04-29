@@ -12,6 +12,13 @@
 
 
 
+## Notice
+
+- 多喝水
+- 保持良好坐姿
+
+
+
 ## Work&Life balance
 
 - 夜生活

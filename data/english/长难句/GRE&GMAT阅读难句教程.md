@@ -689,3 +689,37 @@ mechanization 机械化
 90.
 
 derive 源于；得自；获得
+
+
+
+91.
+
+
+
+92.
+
+self-esteen 自尊
+
+solidarity 团结
+
+compatible  兼容的
+
+coexisting with 共存的
+
+
+
+93.
+
+
+
+94.
+
+inheritor 继承人
+
+
+
+95.
+
+unequivocally 毫不含糊地
+
+legitimately 合法地,正当地,合乎逻辑地
